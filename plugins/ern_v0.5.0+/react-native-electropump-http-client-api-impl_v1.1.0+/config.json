@@ -1,7 +1,7 @@
 {
   "android": {
     "root": "",
-    "moduleName": "android",
+    "moduleName": "app",
     "dependencies": [
       "io.reactivex.rxjava2:rxandroid:2.0.1",
       "io.reactivex.rxjava2:rxjava:2.1.8"
